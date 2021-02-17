@@ -13,12 +13,12 @@ Desenvolva as funções em C para resolver:</p>
 <h2>Recomendações:</h2>
 
 <ol>
-  
-  <li>1. Defina a configuração inicial em uma matriz na função main.</li>
-  
-<li>2. Defina um vetor de 9 posições, que receberá o “retorno” das funções linha, coluna e
+<li> Defina a configuração inicial em uma matriz na função main.</li>  
+
+<li>Defina um vetor de 9 posições, que receberá o “retorno” das funções linha, coluna e
 grupo. Passe esse vetor como parâmetro, onde você saberá que ele sempre terá no
 máximo 9 valores. Considere o valor 0 como vazio.</li>
-<li>3. No trabalho, não precisa fazer com que o programa encontre a solução. Entretanto ela
+
+<li>No trabalho, não precisa fazer com que o programa encontre a solução. Entretanto ela
 será relativamente simples de obter.</li>
 </ol>
