@@ -1,6 +1,7 @@
 # Trabalho-1---UFPR---LP-
 <h1> Trabalho - Passos Para Resolver o Sudoku </h1>
-<p>Considere o problema do jogos do SUDOKU.
+
+<h2>Considere o problema do jogos do SUDOKU.</h2>
 Desenvolva as funções em C para resolver:</p>
 <ol>
   <li>Quais valores faltam na linha X? </li>
