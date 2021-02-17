@@ -1,14 +1,15 @@
 # Trabalho-1---UFPR---LP-
 <h1> Trabalho - Passos Para Resolver o Sudoku </h1>
 <p>Considere o problema do jogos do SUDOKU.
-Desenvolva as funções em C para resolver:
-1.Quais valores faltam na linha X?
-2.Quais valores faltam na coluna Y?
-3.Quais valores faltam no grupo Z?
-4.Quais valores uma determinada célula pode conter?
-5.Quais valores uma determinada célula não pode ter?
-6.Quantos valores possíveis por célula?</p>
-
+Desenvolva as funções em C para resolver:</p>
+<ol>
+  <li>1.Quais valores faltam na linha X? </li>
+<li>2.Quais valores faltam na coluna Y?</li>
+<li>3.Quais valores faltam no grupo Z?</li>
+<li>4.Quais valores uma determinada célula pode conter?</li>
+<li>5.Quais valores uma determinada célula não pode ter?</li>
+<li>6.Quantos valores possíveis por célula?</li>
+</ol>
 <h2>Recomendações:</h2>
 
 <p>1. Defina a configuração inicial em uma matriz na função main.
